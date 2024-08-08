@@ -1,5 +1,5 @@
 # Leetcode 238 Product of Array Except Self
-# Algomap Arrays and Strings 7
+# Algomap Arrays and Strings 8
 # Solution - get prefixes in an array (product of everything before)
 # and suffixes product of everything after and multiply
 class Solution:
